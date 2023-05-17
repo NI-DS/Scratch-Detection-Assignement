@@ -1,5 +1,5 @@
 # Scratch Detection Assignment
-Scratch Detection Assignment for a student position in the data science team at NI
+Scratch Detection Assignment for a data science position in the data science team at NI
 
 <img src="assets/NI_logo.png" width="100" height="100">
 
